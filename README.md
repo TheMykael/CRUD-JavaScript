@@ -1,5 +1,8 @@
-abrir a pasta admin no vscode e 
-rodar o json server: 
+#CRUD EM JS
+
+Instruções:
+- Abrir a pasta admin no vscode e rodar o json server:
+-  
 ```js
 json-server --watch db.json
 ```
